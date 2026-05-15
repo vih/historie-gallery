@@ -1,0 +1,22 @@
+{
+  "input": "./images",
+  "output": "./docs",
+  "title": "Vejle Idrætshøjskole / Den Jyske Idrætsskole",
+  "thumb-size": 200,
+  "photo-size": 1200,
+  "photo-quality": 60,
+  "thumb-quality": 50,
+  "album-from": [
+    "Years/{YYYY}",
+    "Folders/%path"
+  ],
+  "sort-media-by": "date",
+  "photo-download": "resize",
+  "video-download": "resize",
+  "sort-albums-by": "start-date",
+  "theme-path": "./theme-flow-dji",
+  "watermark": "copyright.png",
+  "watermark-position": "SouthEast",
+  "footer": "Hjælp os med at identificere billederne. Hvornår var det? Hvad sker der på billederne? Hvem er med? I hvilken anledning? Hvor er det?.",
+  "embed-exif": true
+}
