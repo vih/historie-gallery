@@ -6,7 +6,7 @@
   "photo-size": 1200,
   "photo-quality": 60,
   "thumb-quality": 50,
-  "album-from": [
+  "albums-from": [
     "Years/{YYYY}",
     "Folders/%path"
   ],
